@@ -1,5 +1,5 @@
 ==Python Lab 5
 
-Using python to retrieve all combinations of words given a phone-pad style number sequebnce and a dictionary
+Using python to retrieve all combinations of words given a phone-pad style number sequence and a dictionary.
 
 Solved using tail recursion and list comprehension.
